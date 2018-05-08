@@ -1,4 +1,4 @@
-# HilbertN-order
+# Proximity Analysis of Linear Quadtree 
 Linear quadtree analysis
 
 This project analyzes the proximity difference between several linear methods of quadtree.
